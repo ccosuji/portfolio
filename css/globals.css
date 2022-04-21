@@ -1,0 +1,69 @@
+@font-face {
+  font-family: "CourierNew-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/cour.ttf") format("truetype");
+}
+@font-face {
+  font-family: "AvenirNext-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/Metropolis-Regular.otf") format("opentype");
+}
+@font-face {
+  font-family: "AvenirNext-Bold";
+  font-style: normal;
+  font-weight: 700;
+  src: url("../fonts/AvenirNextLTPro-Bold.otf") format("opentype");
+}
+
+/* The following line is used to measure usage of this code in production. For more info see our usage billing page */
+@import url("https://px.animaapp.com/622b45af042e686033f37db0.622b45b2144e86d9774f18c3.kdNoyZj.hcp.png");
+
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+
+.screen * {
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+
+.screen a {
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events: auto;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.smart-layers-pointers,
+.smart-layers-pointers * {
+  pointer-events: auto;
+  visibility: visible;
+}
+
+* {
+  box-sizing: border-box;
+}

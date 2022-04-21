@@ -1,0 +1,78 @@
+:root { 
+  --dove-gray: #707070;
+  --fdfdffccowhite: #fdfdff;
+  --white: #ffffff;
+  --x004649-ccoblue: #004649;
+  --x272727ccodark: #272727;
+ 
+  --font-size-l: 32px;
+  --font-size-m: 24px;
+  --font-size-s: 20px;
+  --font-size-xl: 64px;
+  --font-size-xs: 16px;
+  --font-size-xxl: 88px;
+  --font-size-xxs: 12px;
+ 
+  --font-family-avenirnext-bold: "AvenirNext-Bold", Helvetica;
+  --font-family-avenirnext-regular: "AvenirNext-Regular", Helvetica;
+  --font-family-couriernew-bold: "CourierNew-Bold", Helvetica;
+}
+.blurb--tablet {
+  font-family: var(--font-family-avenirnext-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+
+.blurb-mobile {
+  font-family: var(--font-family-avenirnext-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0px;
+}
+
+.section-title--tablet {
+  font-family: var(--font-family-couriernew-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.reel-title {
+  font-family: var(--font-family-avenirnext-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.email--tablet {
+  font-family: var(--font-family-avenirnext-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.email--mobile {
+  font-family: var(--font-family-avenirnext-bold);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.section-title--mobile {
+  font-family: var(--font-family-couriernew-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0px;
+}
+
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}

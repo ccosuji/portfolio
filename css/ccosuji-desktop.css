@@ -1,0 +1,2383 @@
+/* screen - ccosuji-desktop */
+
+.ccosuji-desktop {
+  background-color: var(--white);
+  height: 3754px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.ccosuji-desktop .reel-3o74Yc {
+  background-color: transparent;
+  height: 1133px;
+  left: -8px;
+  position: absolute;
+  top: 917px;
+  width: 1936px;
+}
+
+.ccosuji-desktop .rectangle-14-FVMBBE {
+  background-color: var(--x272727ccodark);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .content-FVMBBE {
+  background-color: transparent;
+  bottom: calc(40.00% - 451px);
+  height: 1128px;
+  left: calc(50.00% - 750px);
+  position: absolute;
+  width: 1500px;
+}
+
+.ccosuji-desktop .x2022-reel-OfeUFn {
+  background-color: transparent;
+  color: var(--fdfdffccowhite);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 80px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 78px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.ccosuji-desktop .group-12-OfeUFn {
+  background-color: transparent;
+  height: calc(100.00% - 203px);
+  left: 80px;
+  position: absolute;
+  top: 123px;
+  width: calc(100.00% - 160px);
+}
+
+.ccosuji-desktop .screen-3Evnxu {
+  background-color: transparent;
+  height: 925px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 1340px;
+}
+
+.ccosuji-desktop .blurb-3o74Yc {
+  background-color: transparent;
+  height: 73px;
+  left: 566px;
+  position: absolute;
+  top: 716px;
+  width: 790px;
+}
+
+.ccosuji-desktop .life-can-be-seen-thr-yPWwwf {
+  background-color: transparent;
+  bottom: 8.22%;
+  color: var(--x272727ccodark);
+  font-style: normal;
+  font-weight: 400;
+  height: 75px;
+  left: 0px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-desktop .image-3o74Yc {
+  background-color: transparent;
+  height: 348px;
+  left: 708px;
+  position: absolute;
+  top: 304px;
+  width: 504px;
+}
+
+.ccosuji-desktop .x1009136-50f0nO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .chijioke-osuji-3o74Yc {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-family: var(--font-family-couriernew-bold);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 554px;
+  letter-spacing: 5.63px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 94px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.ccosuji-desktop .group-13-3o74Yc {
+  background-color: transparent;
+  height: 1584px;
+  left: -5px;
+  position: absolute;
+  top: 2178px;
+  width: 1931px;
+}
+
+.ccosuji-desktop .categories-YxGTgb {
+  background-color: transparent;
+  height: 843px;
+  left: calc(49.96% - 360px);
+  position: absolute;
+  top: 0px;
+  width: 720px;
+}
+
+.ccosuji-desktop .categories-1Utxga {
+  background-color: transparent;
+  height: 167px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .wedding-QqqJnH {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-style: normal;
+  font-weight: 700;
+  height: 39px;
+  left: 293px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 583px);
+}
+
+.ccosuji-desktop .video-link-QqqJnH {
+  background-color: transparent;
+  bottom: calc(48.51% - 16px);
+  cursor: pointer;
+  height: 33px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.ccosuji-desktop .video-link-QqqJnH:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-desktop .tulip-editorial-bridal-video-IoKY7E {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-desktop .video-link-9wxSLe {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 33px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.ccosuji-desktop .video-link-9wxSLe:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-desktop .making-my-first-bridal-editorial-1xGmMH {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-desktop .categories-1aMTnr {
+  background-color: transparent;
+  height: 102px;
+  left: 0px;
+  position: absolute;
+  top: calc(33.33% - 34px);
+  width: 100%;
+}
+
+.ccosuji-desktop .documentary-CxI579 {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-style: normal;
+  font-weight: 700;
+  height: 39px;
+  left: 255px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 506px);
+}
+
+.ccosuji-desktop .video-link-CxI579 {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 33px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.ccosuji-desktop .video-link-CxI579:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-desktop .between-bridges-a-br-OrxvSh {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-desktop .categories-YnfxwP {
+  background-color: transparent;
+  bottom: calc(29.79% - 69px);
+  height: 232px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-desktop .fiction-I6bPSg {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-style: normal;
+  font-weight: 700;
+  height: 39px;
+  left: 294px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 584px);
+}
+
+.ccosuji-desktop .video-link-I6bPSg {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  top: calc(34.67% - 11px);
+  width: 100%;
+}
+
+.ccosuji-desktop .chasing-me-short-film-F489AO {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-desktop .chasing-me-short-film-F489AO:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-desktop .video-link-8xgbYY {
+  background-color: transparent;
+  bottom: calc(32.66% - 11px);
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-desktop .chasing-me-bts-dQbDiy {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-desktop .chasing-me-bts-dQbDiy:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-desktop .video-link-clGEUh {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 33px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.ccosuji-desktop .video-link-clGEUh:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-desktop .goat-meat-stew-experimental-film-N81klU {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-desktop .goat-meat-stew-experimental-film-N81klU:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-desktop .categories-zQLNoD {
+  background-color: transparent;
+  bottom: 0px;
+  height: 102px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-desktop .screenwriting-NXG5TJ {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-style: normal;
+  font-weight: 700;
+  height: 39px;
+  left: 236px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 468px);
+}
+
+.ccosuji-desktop .video-link-NXG5TJ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-desktop .hanging-loose-33HozP {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-desktop .hanging-loose-33HozP:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-desktop .footer-YxGTgb {
+  background-color: transparent;
+  bottom: 0px;
+  height: 613px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-desktop .footer-background-0NJVkx {
+  background-color: var(--x004649-ccoblue);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .footer-content-0NJVkx {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 606px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1211px);
+}
+
+.ccosuji-desktop .developed-by-chijioke-osuji-2022-Mot3Cu {
+  background-color: transparent;
+  bottom: 83px;
+  color: var(--fdfdffccowhite);
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(49.78% - 129px);
+  text-align: center;
+  white-space: nowrap;
+  width: 260px;
+}
+
+.ccosuji-desktop .socials-Mot3Cu {
+  background-color: transparent;
+  bottom: calc(34.47% - 28px);
+  height: 80px;
+  left: calc(50.00% - 280px);
+  position: absolute;
+  width: 560px;
+}
+
+.ccosuji-desktop .mask-group-8-mCk8Qd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+
+.ccosuji-desktop .mask-group-8-mCk8Qd:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-desktop .layer-2-qwKixV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .invisible-box-4BExLu {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .icons-q2-4BExLu {
+  background-color: transparent;
+  height: 64.17%;
+  left: 3.54%;
+  position: absolute;
+  top: 16.67%;
+  width: 91.67%;
+}
+
+.ccosuji-desktop .path-12-Waj5wi {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.ccosuji-desktop .mask-group-7-mCk8Qd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: calc(33.33% - 27px);
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+
+.ccosuji-desktop .mask-group-7-mCk8Qd:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-desktop .layer-2-NgJugf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .invisible-box-7nHnxe {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .icons-q2-7nHnxe {
+  background-color: transparent;
+  height: 83.12%;
+  left: 7.71%;
+  position: absolute;
+  top: 8.33%;
+  width: 83.33%;
+}
+
+.ccosuji-desktop .path-9-q5Cotv {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.ccosuji-desktop .path-10-q5Cotv {
+  background-color: transparent;
+  height: 51.63%;
+  left: 24.25%;
+  object-fit: cover;
+  position: absolute;
+  top: 24.31%;
+  width: 51.50%;
+}
+
+.ccosuji-desktop .path-11-q5Cotv {
+  background-color: transparent;
+  height: 12.03%;
+  left: 70.75%;
+  object-fit: cover;
+  position: absolute;
+  top: 17.29%;
+  width: 12.00%;
+}
+
+.ccosuji-desktop .mask-group-6-mCk8Qd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(33.33% - 27px);
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+
+.ccosuji-desktop .mask-group-6-mCk8Qd:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-desktop .layer-2-Mu8xdd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .invisible-box-Lhullp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .icons-q2-Lhullp {
+  background-color: transparent;
+  height: 74.66%;
+  left: 3.54%;
+  position: absolute;
+  top: 12.63%;
+  width: 91.67%;
+}
+
+.ccosuji-desktop .icon-twitter-fJvOjW {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.ccosuji-desktop .mask-group-5-mCk8Qd {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+
+.ccosuji-desktop .mask-group-5-mCk8Qd:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-desktop .layer-2-ZT8Q2I {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .invisible-box-vhm5ob {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .icons-q2-vhm5ob {
+  background-color: transparent;
+  height: 83.13%;
+  left: 7.71%;
+  position: absolute;
+  top: 8.54%;
+  width: 83.12%;
+}
+
+.ccosuji-desktop .icon-linkedin-yRG0AZ {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-desktop .ccosujiofficialgmailcom-Mot3Cu {
+  background-color: transparent;
+  color: var(--fdfdffccowhite);
+  font-style: normal;
+  font-weight: 700;
+  height: 35px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(49.76% - 154px);
+  text-align: center;
+  top: calc(40.75% - 14px);
+  white-space: nowrap;
+  width: 310px;
+}
+
+.ccosuji-desktop .i-love-feedback-and-Mot3Cu {
+  background-color: transparent;
+  color: var(--fdfdffccowhite);
+  font-style: normal;
+  font-weight: 400;
+  height: 75px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(49.71% - 189px);
+  text-align: center;
+  top: 76px;
+  white-space: nowrap;
+  width: 380px;
+}
+
+.ccosuji-desktop .filmmaker-3o74Yc {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  font-family: var(--font-family-avenirnext-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 870px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 194px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - ccosuji-tablet */
+
+.ccosuji-tablet {
+  background-color: var(--white);
+  height: 3115px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 768px;
+}
+
+.ccosuji-tablet .name-p2GQin {
+  background-color: transparent;
+  height: 72px;
+  left: 89px;
+  position: absolute;
+  top: 64px;
+  width: 592px;
+}
+
+.ccosuji-tablet .chijioke-osuji-xORXkw {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-family: var(--font-family-couriernew-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 4.10px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-tablet .image-p2GQin {
+  background-color: transparent;
+  height: 348px;
+  left: 132px;
+  position: absolute;
+  top: 282px;
+  width: 504px;
+}
+
+.ccosuji-tablet .x1009136-qJcaE6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .blurb-p2GQin {
+  background-color: transparent;
+  height: 73px;
+  left: 80px;
+  position: absolute;
+  top: 678px;
+  width: 610px;
+}
+
+.ccosuji-tablet .life-can-be-seen-thr-TOFpOu {
+  background-color: transparent;
+  bottom: 8.22%;
+  color: var(--x272727ccodark);
+  font-style: normal;
+  font-weight: 400;
+  height: 75px;
+  left: 0px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-tablet .reel-p2GQin {
+  background-color: transparent;
+  height: 579px;
+  left: -8px;
+  position: absolute;
+  top: 893px;
+  width: 784px;
+}
+
+.ccosuji-tablet .rectangle-14-Aa3t7W {
+  background-color: var(--x272727ccodark);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .content-Aa3t7W {
+  background-color: transparent;
+  height: 579px;
+  position: absolute;
+  right: calc(48.28% - 364px);
+  top: calc(50.00% - 290px);
+  width: 755px;
+}
+
+.ccosuji-tablet .x2022-reel-RHGEGO {
+  background-color: transparent;
+  color: var(--fdfdffccowhite);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 24px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.ccosuji-tablet .group-12-RHGEGO {
+  background-color: transparent;
+  height: calc(100.00% - 91px);
+  left: 24px;
+  position: absolute;
+  top: 67px;
+  width: calc(100.00% - 48px);
+}
+
+.ccosuji-tablet .screen-sjKL4c {
+  background-color: transparent;
+  height: 488px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 707px;
+}
+
+.ccosuji-tablet .group-14-p2GQin {
+  background-color: transparent;
+  height: 1544px;
+  left: -8px;
+  position: absolute;
+  top: 1576px;
+  width: 784px;
+}
+
+.ccosuji-tablet .categories-V7Sk2L {
+  background-color: transparent;
+  height: 843px;
+  left: 32px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 64px);
+}
+
+.ccosuji-tablet .categories-imVxDh {
+  background-color: transparent;
+  height: 167px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .wedding-7xUpcw {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-style: normal;
+  font-weight: 700;
+  height: 39px;
+  left: 293px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 583px);
+}
+
+.ccosuji-tablet .video-link-7xUpcw {
+  background-color: transparent;
+  bottom: calc(48.51% - 16px);
+  cursor: pointer;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-tablet .tulip-editorial-bridal-video-YniH2Y {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-tablet .video-link-xvuplR {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-tablet .making-my-first-bridal-editorial-zSvH17 {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-tablet .categories-O1afat {
+  background-color: transparent;
+  height: 102px;
+  left: 0px;
+  position: absolute;
+  top: calc(33.33% - 34px);
+  width: 100%;
+}
+
+.ccosuji-tablet .documentary-zc0VGo {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-style: normal;
+  font-weight: 700;
+  height: 39px;
+  left: 255px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 506px);
+}
+
+.ccosuji-tablet .video-link-zc0VGo {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-tablet .between-bridges-a-br-V1Vv98 {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-tablet .categories-aXjbjR {
+  background-color: transparent;
+  bottom: calc(29.79% - 69px);
+  height: 232px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-tablet .fiction-jXKsxp {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-style: normal;
+  font-weight: 700;
+  height: 39px;
+  left: 294px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 584px);
+}
+
+.ccosuji-tablet .video-link-jXKsxp {
+  background-color: transparent;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  top: calc(34.67% - 11px);
+  width: 100%;
+}
+
+.ccosuji-tablet .chasing-me-short-film-bsV4nT {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-tablet .video-link-6jf7ER {
+  background-color: transparent;
+  bottom: calc(32.66% - 11px);
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-tablet .chasing-me-bts-xFgBc3 {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-tablet .video-link-tnUoSs {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 33px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+
+.ccosuji-tablet .video-link-tnUoSs:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-tablet .goat-meat-stew-experimental-film-GiGhzJ {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-tablet .categories-Kek6Bj {
+  background-color: transparent;
+  bottom: 0px;
+  height: 102px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-tablet .screenwriting-lUxD7y {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-style: normal;
+  font-weight: 700;
+  height: 39px;
+  left: 236px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% - 468px);
+}
+
+.ccosuji-tablet .video-link-lUxD7y {
+  background-color: transparent;
+  bottom: 0px;
+  height: 33px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-tablet .hanging-loose-c5af7h {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 35px;
+  left: 0px;
+  line-height: 24px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: calc(100.00% + 2px);
+}
+
+.ccosuji-tablet .hanging-loose-c5af7h:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-tablet .footer-V7Sk2L {
+  background-color: transparent;
+  bottom: 0px;
+  height: 613px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.ccosuji-tablet .footer-background-hRN7bb {
+  background-color: var(--x004649-ccoblue);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .footer-content-hRN7bb {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 32px;
+  position: absolute;
+  top: 3px;
+  width: calc(100.00% - 64px);
+}
+
+.ccosuji-tablet .developed-by-chijioke-osuji-2022-qxXgyb {
+  background-color: transparent;
+  bottom: 83px;
+  color: var(--fdfdffccowhite);
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(49.78% - 129px);
+  text-align: center;
+  white-space: nowrap;
+  width: 260px;
+}
+
+.ccosuji-tablet .socials-qxXgyb {
+  background-color: transparent;
+  bottom: calc(34.47% - 28px);
+  height: 80px;
+  left: calc(50.00% - 280px);
+  position: absolute;
+  width: 560px;
+}
+
+.ccosuji-tablet .mask-group-8-qAo1Sq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+
+.ccosuji-tablet .mask-group-8-qAo1Sq:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-tablet .layer-2-n0iPEq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .invisible-box-ao9hF3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .icons-q2-ao9hF3 {
+  background-color: transparent;
+  height: 64.17%;
+  left: 3.54%;
+  position: absolute;
+  top: 16.67%;
+  width: 91.67%;
+}
+
+.ccosuji-tablet .path-12-zxxVUE {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.ccosuji-tablet .mask-group-7-qAo1Sq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: calc(33.33% - 27px);
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+
+.ccosuji-tablet .mask-group-7-qAo1Sq:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-tablet .layer-2-2NwEyd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .invisible-box-HXI1nx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .icons-q2-HXI1nx {
+  background-color: transparent;
+  height: 83.12%;
+  left: 7.71%;
+  position: absolute;
+  top: 8.33%;
+  width: 83.33%;
+}
+
+.ccosuji-tablet .path-9-oa9dih {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.ccosuji-tablet .path-10-oa9dih {
+  background-color: transparent;
+  height: 51.63%;
+  left: 24.25%;
+  object-fit: cover;
+  position: absolute;
+  top: 24.31%;
+  width: 51.50%;
+}
+
+.ccosuji-tablet .path-11-oa9dih {
+  background-color: transparent;
+  height: 12.03%;
+  left: 70.75%;
+  object-fit: cover;
+  position: absolute;
+  top: 17.29%;
+  width: 12.00%;
+}
+
+.ccosuji-tablet .mask-group-6-qAo1Sq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(33.33% - 27px);
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+
+.ccosuji-tablet .mask-group-6-qAo1Sq:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-tablet .layer-2-lV4Rxl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .invisible-box-mmZZxU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .icons-q2-mmZZxU {
+  background-color: transparent;
+  height: 74.66%;
+  left: 3.54%;
+  position: absolute;
+  top: 12.63%;
+  width: 91.67%;
+}
+
+.ccosuji-tablet .icon-twitter-biLWEd {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.ccosuji-tablet .mask-group-5-qAo1Sq {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 80px;
+}
+
+.ccosuji-tablet .mask-group-5-qAo1Sq:hover {
+  transform: scale(1.1);
+}
+
+.ccosuji-tablet .layer-2-byPZyH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .invisible-box-2hPQ07 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .icons-q2-2hPQ07 {
+  background-color: transparent;
+  height: 83.13%;
+  left: 7.71%;
+  position: absolute;
+  top: 8.54%;
+  width: 83.12%;
+}
+
+.ccosuji-tablet .icon-linkedin-oSipiw {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.ccosuji-tablet .ccosujiofficialgmailcom-qxXgyb {
+  background-color: transparent;
+  color: var(--fdfdffccowhite);
+  font-style: normal;
+  font-weight: 700;
+  height: 35px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(49.76% - 154px);
+  text-align: center;
+  top: calc(40.75% - 14px);
+  white-space: nowrap;
+  width: 310px;
+}
+
+.ccosuji-tablet .i-love-feedback-and-qxXgyb {
+  background-color: transparent;
+  color: var(--fdfdffccowhite);
+  font-style: normal;
+  font-weight: 400;
+  height: 75px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(49.71% - 189px);
+  text-align: center;
+  top: 76px;
+  white-space: nowrap;
+  width: 380px;
+}
+
+.ccosuji-tablet .filmmaker-p2GQin {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  font-family: var(--font-family-avenirnext-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 294px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 166px;
+  white-space: nowrap;
+  width: auto;
+}
+/* screen - iphone-13-12-pro-max-1 */
+
+.iphone-13-12-pro-max-1 {
+  background-color: var(--white);
+  height: 2186px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 320px;
+}
+
+.iphone-13-12-pro-max-1 .name-ChO6qR {
+  background-color: transparent;
+  height: 33px;
+  left: 24px;
+  position: absolute;
+  top: 48px;
+  width: 270px;
+}
+
+.iphone-13-12-pro-max-1 .chijioke-osuji-oxv1FK {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-family: var(--font-family-couriernew-bold);
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 1.86px;
+  line-height: 23px;
+  position: absolute;
+  text-align: center;
+  top: 5px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.iphone-13-12-pro-max-1 .image-ChO6qR {
+  background-color: transparent;
+  height: 186px;
+  left: 25px;
+  position: absolute;
+  top: 157px;
+  width: 270px;
+}
+
+.iphone-13-12-pro-max-1 .x1009136-gU1wS8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .blurb-ChO6qR {
+  background-color: transparent;
+  height: 54px;
+  left: 25px;
+  position: absolute;
+  top: 383px;
+  width: 273px;
+}
+
+.iphone-13-12-pro-max-1 .life-can-be-seen-thr-MxwBwg {
+  background-color: transparent;
+  bottom: 11.11%;
+  color: var(--x272727ccodark);
+  font-style: normal;
+  font-weight: 400;
+  height: 56px;
+  left: 0px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+
+.iphone-13-12-pro-max-1 .reel-ChO6qR {
+  background-color: transparent;
+  height: 273px;
+  left: -8px;
+  position: absolute;
+  top: 486px;
+  width: 336px;
+}
+
+.iphone-13-12-pro-max-1 .rectangle-14-3xX6BJ {
+  background-color: var(--x272727ccodark);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .content-3xX6BJ {
+  background-color: transparent;
+  height: 273px;
+  position: absolute;
+  right: calc(50.00% - 163px);
+  top: calc(50.00% - 136px);
+  width: 326px;
+}
+
+.iphone-13-12-pro-max-1 .x2022-reel-MztMjL {
+  background-color: transparent;
+  color: var(--fdfdffccowhite);
+  font-style: normal;
+  font-weight: 700;
+  height: 24px;
+  left: 16px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  white-space: nowrap;
+  width: 82px;
+}
+
+.iphone-13-12-pro-max-1 .video-MztMjL {
+  background-color: transparent;
+  height: calc(100.00% - 70px);
+  left: 16px;
+  position: absolute;
+  top: 54px;
+  width: calc(100.00% - 32px);
+}
+
+.iphone-13-12-pro-max-1 .screen-rXUYWs {
+  background-color: transparent;
+  height: 203px;
+  left: 0px;
+  overflow: hidden;
+  position: relative;
+  top: 0px;
+  width: 294px;
+}
+
+.iphone-13-12-pro-max-1 .group-15-ChO6qR {
+  background-color: transparent;
+  height: 1349px;
+  left: -8px;
+  position: absolute;
+  top: 839px;
+  width: 336px;
+}
+
+.iphone-13-12-pro-max-1 .categories-nHNZTI {
+  background-color: transparent;
+  height: 746px;
+  left: 21px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 32px);
+}
+
+.iphone-13-12-pro-max-1 .categories-8BGoUh {
+  background-color: transparent;
+  height: 135px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 296px;
+}
+
+.iphone-13-12-pro-max-1 .wedding-XPEmKq {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 95px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 193px);
+}
+
+.iphone-13-12-pro-max-1 .video-link-XPEmKq {
+  background-color: transparent;
+  bottom: calc(47.79% - 11px);
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .tulip-editorial-bridal-video-jwEPWO {
+  background-color: transparent;
+  bottom: 0px;
+  color: var(--x272727ccodark);
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 0px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.iphone-13-12-pro-max-1 .video-link-xl2aGX {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .making-my-first-bridal-editorial-Rx2Xdt {
+  background-color: transparent;
+  bottom: 0px;
+  color: var(--x272727ccodark);
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 0px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.iphone-13-12-pro-max-1 .categories-VMxET4 {
+  background-color: transparent;
+  height: 101px;
+  left: 0px;
+  position: absolute;
+  top: calc(33.33% - 34px);
+  width: 296px;
+}
+
+.iphone-13-12-pro-max-1 .documentary-d8WMtM {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 69px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 136px);
+}
+
+.iphone-13-12-pro-max-1 .video-link-d8WMtM {
+  background-color: transparent;
+  bottom: 0px;
+  cursor: pointer;
+  height: 42px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .between-bridges-a-br-mkjT0n {
+  background-color: transparent;
+  bottom: 0px;
+  color: var(--x272727ccodark);
+  font-style: normal;
+  font-weight: 400;
+  height: 44px;
+  left: 0px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  width: calc(100.00% + 2px);
+}
+
+.iphone-13-12-pro-max-1 .categories-xGstx7 {
+  background-color: transparent;
+  bottom: calc(28.90% - 55px);
+  height: 189px;
+  left: 0px;
+  position: absolute;
+  width: 296px;
+}
+
+.iphone-13-12-pro-max-1 .fiction-6e5vCA {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 98px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 194px);
+}
+
+.iphone-13-12-pro-max-1 .video-link-6e5vCA {
+  background-color: transparent;
+  cursor: pointer;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  top: calc(35.33% - 8px);
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .chasing-me-short-film-xPBhFu {
+  background-color: transparent;
+  bottom: 0px;
+  color: var(--x272727ccodark);
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 0px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.iphone-13-12-pro-max-1 .video-link-77S4lx {
+  background-color: transparent;
+  bottom: calc(32.34% - 7px);
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .chasing-me-bts-AnOVKq {
+  background-color: transparent;
+  bottom: 0px;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 0px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.iphone-13-12-pro-max-1 .video-link-qNyeUm {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .goat-meat-stew-experimental-film-qQUzE2 {
+  background-color: transparent;
+  bottom: 0px;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 0px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.iphone-13-12-pro-max-1 .categories-8toAP9 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 81px;
+  left: 0px;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+
+.iphone-13-12-pro-max-1 .screenwriting-jhFkti {
+  background-color: transparent;
+  color: var(--x004649-ccoblue);
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 54px;
+  line-height: 32px;
+  position: absolute;
+  text-align: center;
+  top: -2px;
+  white-space: nowrap;
+  width: calc(100.00% - 106px);
+}
+
+.iphone-13-12-pro-max-1 .video-link-jhFkti {
+  background-color: transparent;
+  bottom: 0px;
+  height: 22px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .hanging-loose-zLDBjy {
+  background-color: transparent;
+  bottom: 0px;
+  color: var(--x272727ccodark);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 400;
+  height: 24px;
+  left: 0px;
+  line-height: 20px;
+  pointer-events: auto;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.iphone-13-12-pro-max-1 .hanging-loose-zLDBjy:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .footer-nHNZTI {
+  background-color: transparent;
+  bottom: 0px;
+  height: 523px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .footer-background-M95KdF {
+  background-color: var(--x004649-ccoblue);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .footer-content-M95KdF {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  left: 20px;
+  position: absolute;
+  top: 3px;
+  width: calc(100.00% - 40px);
+}
+
+.iphone-13-12-pro-max-1 .developed-by-chijioke-osuji-2022-TXgVeu {
+  background-color: transparent;
+  bottom: 46px;
+  color: var(--fdfdffccowhite);
+  font-family: var(--font-family-avenirnext-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+  height: 18px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(49.00% - 96px);
+  text-align: center;
+  white-space: nowrap;
+  width: 196px;
+}
+
+.iphone-13-12-pro-max-1 .socials-TXgVeu {
+  background-color: transparent;
+  bottom: calc(37.66% - 15px);
+  height: 40px;
+  left: calc(50.00% - 140px);
+  position: absolute;
+  width: 280px;
+}
+
+.iphone-13-12-pro-max-1 .mask-group-8-OfHRMw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+
+.iphone-13-12-pro-max-1 .mask-group-8-OfHRMw:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .layer-2-gMFDxd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .invisible-box-h7Fm2i {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .icons-q2-h7Fm2i {
+  background-color: transparent;
+  height: 64.17%;
+  left: 3.54%;
+  position: absolute;
+  top: 16.67%;
+  width: 91.67%;
+}
+
+.iphone-13-12-pro-max-1 .path-12-Yx9Fhy {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.iphone-13-12-pro-max-1 .mask-group-7-OfHRMw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: calc(33.33% - 13px);
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+
+.iphone-13-12-pro-max-1 .mask-group-7-OfHRMw:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .layer-2-i7x0Hx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .invisible-box-dgrVKx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .icons-q2-dgrVKx {
+  background-color: transparent;
+  height: 83.12%;
+  left: 7.71%;
+  position: absolute;
+  top: 8.33%;
+  width: 83.33%;
+}
+
+.iphone-13-12-pro-max-1 .path-9-7xfC9S {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.iphone-13-12-pro-max-1 .path-10-7xfC9S {
+  background-color: transparent;
+  height: 51.63%;
+  left: 24.25%;
+  object-fit: cover;
+  position: absolute;
+  top: 24.31%;
+  width: 51.50%;
+}
+
+.iphone-13-12-pro-max-1 .path-11-7xfC9S {
+  background-color: transparent;
+  height: 12.03%;
+  left: 70.75%;
+  object-fit: cover;
+  position: absolute;
+  top: 17.29%;
+  width: 12.00%;
+}
+
+.iphone-13-12-pro-max-1 .mask-group-6-OfHRMw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  right: calc(33.33% - 13px);
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+
+.iphone-13-12-pro-max-1 .mask-group-6-OfHRMw:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .layer-2-HzAxEg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .invisible-box-7vpEbV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .icons-q2-7vpEbV {
+  background-color: transparent;
+  height: 74.66%;
+  left: 3.54%;
+  position: absolute;
+  top: 12.63%;
+  width: 91.67%;
+}
+
+.iphone-13-12-pro-max-1 .icon-twitter-bOmro1 {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.iphone-13-12-pro-max-1 .mask-group-5-OfHRMw {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  overflow: hidden;
+  pointer-events: auto;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 40px;
+}
+
+.iphone-13-12-pro-max-1 .mask-group-5-OfHRMw:hover {
+  transform: scale(1.1);
+}
+
+.iphone-13-12-pro-max-1 .layer-2-mqDhmH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .invisible-box-kDSos0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .icons-q2-kDSos0 {
+  background-color: transparent;
+  height: 83.13%;
+  left: 7.71%;
+  position: absolute;
+  top: 8.54%;
+  width: 83.12%;
+}
+
+.iphone-13-12-pro-max-1 .icon-linkedin-sWlaYX {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.iphone-13-12-pro-max-1 .ccosujiofficialgmailcom-TXgVeu {
+  background-color: transparent;
+  color: var(--fdfdffccowhite);
+  font-style: normal;
+  font-weight: 700;
+  height: 24px;
+  line-height: 32px;
+  position: absolute;
+  right: calc(48.86% - 102px);
+  text-align: center;
+  top: calc(38.06% - 9px);
+  white-space: nowrap;
+  width: 208px;
+}
+
+.iphone-13-12-pro-max-1 .i-love-feedback-and-TXgVeu {
+  background-color: transparent;
+  color: var(--fdfdffccowhite);
+  font-style: normal;
+  font-weight: 400;
+  height: 64px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(47.62% - 121px);
+  text-align: center;
+  top: 31px;
+  white-space: nowrap;
+  width: 254px;
+}
+
+.iphone-13-12-pro-max-1 .filmmaker-ChO6qR {
+  background-color: transparent;
+  color: var(--x272727ccodark);
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 115px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 82px;
+  white-space: nowrap;
+  width: auto;
+}
+@media screen and (max-width: 767px) {
+  .screen.ccosuji-desktop { 
+    display: none;
+   }
+  .screen.ccosuji-tablet { 
+    display: none;
+   }
+}
+@media screen and (min-width: 768px) and (max-width: 1919px) {
+  .screen.ccosuji-desktop { 
+    display: none;
+   }
+  .screen.iphone-13-12-pro-max-1 { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1920px) {
+  .screen.ccosuji-tablet { 
+    display: none;
+   }
+  .screen.iphone-13-12-pro-max-1 { 
+    display: none;
+   }
+}
